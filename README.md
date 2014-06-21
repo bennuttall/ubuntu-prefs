@@ -29,6 +29,7 @@ rubygems
 nautilus-image-manipulator
 steam-launcher
 espeak
+htop
 ```
 
 ## Sublime Text 3
