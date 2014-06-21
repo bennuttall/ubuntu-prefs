@@ -37,11 +37,17 @@ sudo apt-get install sublime-text-installer
 ## Ruby Gems
 
 hub
+bro
 
-### Fix Ubuntu script
+## Fix Ubuntu script
 
 wget -q -O - https://fixubuntu.com/fixubuntu.sh | bash
 
-### Remove Unity scrollbars
+## Remove Unity scrollbars
 
 gsettings set com.canonical.desktop.interface scrollbar-mode normal
+
+## Downloads
+
+- [https://www.google.co.uk/intl/en_uk/chrome/browser/](Google Chrome)
+- [Skype](www.skype.com/en/download-skype/skype-for-linux/downloading/?type=ubuntu64)
