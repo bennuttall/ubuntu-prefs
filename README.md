@@ -2,6 +2,7 @@
 
 ## Packages
 
+```bash
 guake
 vim
 openssh-server
@@ -27,25 +28,34 @@ python-gpgme
 rubygems
 nautilus-image-manipulator
 steam-launcher
+```
 
 ## Sublime Text 3
 
+```bash
 sudo add-apt-repository ppa:webupd8team/sublime-text-3
 sudo apt-get update
 sudo apt-get install sublime-text-installer
+```
 
 ## Ruby Gems
 
+```
 hub
 bro
+```
 
 ## Fix Ubuntu script
 
+```bash
 wget -q -O - https://fixubuntu.com/fixubuntu.sh | bash
+```
 
 ## Remove Unity scrollbars
 
+```bash
 gsettings set com.canonical.desktop.interface scrollbar-mode normal
+```
 
 ## Downloads
 
