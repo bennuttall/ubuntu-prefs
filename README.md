@@ -1,4 +1,4 @@
-# Ubuntu Installations
+# Ubuntu Preferences
 
 ## Packages
 
