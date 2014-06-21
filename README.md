@@ -30,6 +30,7 @@ nautilus-image-manipulator
 steam-launcher
 espeak
 htop
+nodejs
 ```
 
 ## Sublime Text 3
