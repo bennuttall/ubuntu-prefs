@@ -32,6 +32,7 @@ steam-launcher
 espeak
 htop
 nodejs
+php5-gd
 ```
 
 ## Sublime Text 3
