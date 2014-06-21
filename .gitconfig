@@ -1,0 +1,7 @@
+[user]
+	email = ben@bennuttall.com
+	name = Ben Nuttall
+[push]
+	default = simple
+[core]
+    editor = vim
