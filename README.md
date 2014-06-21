@@ -63,3 +63,7 @@ gsettings set com.canonical.desktop.interface scrollbar-mode normal
 
 - [https://www.google.co.uk/intl/en_uk/chrome/browser/](Google Chrome)
 - [Skype](www.skype.com/en/download-skype/skype-for-linux/downloading/?type=ubuntu64)
+
+## Installing hard drives
+
+[https://help.ubuntu.com/community/InstallingANewHardDrive](InstallingANewHardDrive)
