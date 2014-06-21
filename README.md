@@ -46,6 +46,7 @@ sudo apt-get install sublime-text-installer
 
 ```bash
 stormssh
+pep8
 ```
 
 ## Ruby Gems
