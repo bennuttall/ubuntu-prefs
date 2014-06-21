@@ -15,6 +15,7 @@ ipython3
 ipython-notebook
 ipython3-notebook
 compizconfig-settings-manager
+python-pip
 curl
 php5
 apache2
@@ -39,6 +40,12 @@ nodejs
 sudo add-apt-repository ppa:webupd8team/sublime-text-3
 sudo apt-get update
 sudo apt-get install sublime-text-installer
+```
+
+## Pip
+
+```bash
+stormssh
 ```
 
 ## Ruby Gems
