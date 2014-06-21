@@ -45,7 +45,7 @@ sudo apt-get install sublime-text-installer
 
 ```
 hub
-bro
+bropages
 ```
 
 ## Fix Ubuntu script
