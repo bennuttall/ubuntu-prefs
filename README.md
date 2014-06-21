@@ -74,4 +74,4 @@ gsettings set com.canonical.desktop.interface scrollbar-mode normal
 
 ## Installing hard drives
 
-[https://help.ubuntu.com/community/InstallingANewHardDrive](InstallingANewHardDrive)
+[InstallingANewHardDrive](https://help.ubuntu.com/community/InstallingANewHardDrive)
