@@ -1,4 +1,47 @@
-ubuntu-prefs
-============
+# Ubuntu Installations
 
-Notes on what I install &amp; configure on a fresh build
+## Packages
+
+guake
+vim
+openssh-server
+git
+tree
+pv
+meld
+ipython
+ipython3
+ipython-notebook
+ipython3-notebook
+compizconfig-settings-manager
+curl
+php5
+apache2
+libapache2-mod-php5
+php-pear
+mysql-server
+php5-mysql
+gimp
+pidgin
+python-gpgme
+rubygems
+nautilus-image-manipulator
+steam-launcher
+
+## Sublime Text 3
+
+sudo add-apt-repository ppa:webupd8team/sublime-text-3
+sudo apt-get update
+sudo apt-get install sublime-text-installer
+
+## Ruby Gems
+
+hub
+
+### Fix Ubuntu script
+
+wget -q -O - https://fixubuntu.com/fixubuntu.sh | bash
+
+### Remove Unity scrollbars
+
+gsettings set com.canonical.desktop.interface scrollbar-mode normal
