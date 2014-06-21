@@ -28,6 +28,7 @@ python-gpgme
 rubygems
 nautilus-image-manipulator
 steam-launcher
+espeak
 ```
 
 ## Sublime Text 3
