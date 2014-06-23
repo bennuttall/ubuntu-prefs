@@ -85,3 +85,10 @@ gsettings set com.canonical.desktop.interface scrollbar-mode normal
 ## Installing hard drives
 
 [InstallingANewHardDrive](https://help.ubuntu.com/community/InstallingANewHardDrive)
+
+## Visudo
+
+```
+# Allow members of group sudo to execute any command                            
+%sudo   ALL=(ALL:ALL) NOPASSWD: ALL
+```
