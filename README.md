@@ -33,6 +33,7 @@ espeak
 htop
 nodejs
 php5-gd
+pep8
 ```
 
 ## Sublime Text 3
@@ -47,7 +48,7 @@ sudo apt-get install sublime-text-installer
 
 ```bash
 stormssh
-pep8
+mkdocs
 ```
 
 ## Ruby Gems
@@ -75,6 +76,12 @@ wget -q -O - https://fixubuntu.com/fixubuntu.sh | bash
 
 ```bash
 gsettings set com.canonical.desktop.interface scrollbar-mode normal
+```
+
+## Configure default editor
+
+```bash
+sudo update-alternatives --config editor
 ```
 
 ## Downloads
