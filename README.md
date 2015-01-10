@@ -16,6 +16,7 @@ ipython-notebook
 ipython3-notebook
 compizconfig-settings-manager
 python-pip
+python3-pip
 curl
 php5
 apache2
@@ -26,9 +27,8 @@ php5-mysql
 gimp
 pidgin
 python-gpgme
-rubygems
+ruby
 nautilus-image-manipulator
-steam-launcher
 espeak
 htop
 nodejs
