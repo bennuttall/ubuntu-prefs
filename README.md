@@ -94,7 +94,7 @@ sudo update-alternatives --config editor
 ## Downloads
 
 - [Google Chrome](https://www.google.co.uk/intl/en_uk/chrome/browser/)
-- [Skype](www.skype.com/en/download-skype/skype-for-linux/downloading/?type=ubuntu64)
+- [Skype](https://www.skype.com/en/download-skype/skype-for-linux/downloading/?type=ubuntu64)
 
 ## Installing hard drives
 
