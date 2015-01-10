@@ -73,6 +73,23 @@ sudo apt-get update
 sudo apt-get install python-software-properties python g++ make nodejs
 ```
 
+## Apache
+
+```bash
+chmod +x /home/ben
+a2enmod rewrite
+```
+
+## MySQL
+
+`.my.cnf`:
+
+```
+[client]
+    user=user
+    password=pass
+```
+
 ## Fix Ubuntu script
 
 ```bash
