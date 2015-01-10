@@ -58,6 +58,13 @@ hub
 bropages
 ```
 
+## Atom
+
+```bash
+wget https://atom.io/download/deb -O atom.io
+sudo dpkg -i atom.deb
+```
+
 ## Nodejs PPA
 
 ```bash
