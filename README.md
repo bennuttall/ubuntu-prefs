@@ -3,37 +3,17 @@
 ## Packages
 
 ```bash
-guake
 vim
+vim-gnome
 openssh-server
 git
 tree
 pv
 meld
-ipython
-ipython3
-ipython-notebook
-ipython3-notebook
-compizconfig-settings-manager
-python-pip
-python3-pip
-curl
-php5
-apache2
-libapache2-mod-php5
-php-pear
-mysql-server
-php5-mysql
 gimp
 pidgin
-python-gpgme
-ruby
 nautilus-image-manipulator
-espeak
 htop
-nodejs
-php5-gd
-pep8
 ```
 
 ## Sublime Text 3
@@ -49,35 +29,15 @@ sudo apt-get install sublime-text-installer
 ```bash
 stormssh
 mkdocs
-```
-
-## Ruby Gems
-
-```
-hub
-bropages
+ipython
+pep8
 ```
 
 ## Atom
 
 ```bash
-wget https://atom.io/download/deb -O atom.io
+wget https://atom.io/download/deb -O atom.deb
 sudo dpkg -i atom.deb
-```
-
-## Nodejs PPA
-
-```bash
-sudo add-apt-repository ppa:chris-lea/node.js
-sudo apt-get update
-sudo apt-get install python-software-properties python g++ make nodejs
-```
-
-## Apache
-
-```bash
-chmod +x /home/ben
-a2enmod rewrite
 ```
 
 ## MySQL
@@ -88,12 +48,6 @@ a2enmod rewrite
 [client]
     user=user
     password=pass
-```
-
-## Fix Ubuntu script
-
-```bash
-wget -q -O - https://fixubuntu.com/fixubuntu.sh | bash
 ```
 
 ## Remove Unity scrollbars
